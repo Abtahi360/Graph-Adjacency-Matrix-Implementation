@@ -1,4 +1,4 @@
-# Graph Adjacency Matrix Implementation (C++)
+# Graph Adjacency Matrix Implementation
 
 This repository contains C++ implementations of graph representation using **Adjacency Matrix** for both:
 
